@@ -1,0 +1,38 @@
+<style>
+@import url('https://fonts.googleapis.com/css?family=Montserrat|Oswald|Roboto&display=swap');
+</style>
+
+h2{
+  text-size-adjust: 20px;
+  text-align-last: left;
+  font-family: 'Roboto', ;
+font-family: 'Montserrat', ;
+font-family: 'Oswald', ;
+}
+
+p{
+font-family: 'Roboto', ;
+font-family: 'Montserrat', ;
+font-family: 'Oswald', ;
+text-size-adjust: 10px;
+text-indentb: 20px;
+}
+
+.img-inserted {
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  padding: 20px;
+  width: 150px;
+  height: 150px;
+}
+
+.title {
+  background-color: rgb(202, 223, 212);
+  color: white;
+  padding: 10px;
+}
+}
+
+
+
+
